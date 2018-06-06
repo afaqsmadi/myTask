@@ -5,13 +5,17 @@ to run project should have :
 
 when you run the project it will automatically
 
-create database "registration" and insert some data
+create database "registration" and insert some data for sign in
+
+create database "testing" to upload image 
 
 # localhost is :
 localhost:8080
 
 # Task have:
- authentication system, and profile page
+ 1-authentication system, and profile page
+ 2- 
+
 
 
 # you can login using :
