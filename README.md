@@ -25,3 +25,7 @@ username: afaq
 pasoowrd : 1234
 
 or create new user
+# deploy in heroku
+https://task-profile.herokuapp.com/signup.php
+https://task-profile.herokuapp.com/login.php
+https://task-profile.herokuapp.com/image.php
